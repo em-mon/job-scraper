@@ -11,3 +11,7 @@
   - and industry
   - 
 # # I want: title, company, link, date posted, if i applied or not, requirements
+
+edge cases:
+- less than 7 entries on a page
+- no jobs found
