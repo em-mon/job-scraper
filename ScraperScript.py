@@ -47,4 +47,3 @@ if __name__ == "__main__":
     # temp = 0
     # for i in range(len(products)):
     #     print("Product brand: " + products[i])
-    #     print("--------------------------------")
