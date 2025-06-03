@@ -1,8 +1,8 @@
 # Skincare Web Scraper: Building a Dynamic Product-Ingredient Dataset
-Technologies: Python, BeautifulSoup, Requests, Web Scraping, JSON
+**Technologies:** Python, BeautifulSoup, Requests, Web Scraping, JSON
 
 This project scrapes skincare product data, including product names, brands, and ingredients, from INCIDecoder, a popular, user-updated database for skincare formulations. The scraper outputs a clean JSON file mapping products to their ingredient lists:
-'''
+```
 [
   {
     "Name": "Example Product",
@@ -10,7 +10,7 @@ This project scrapes skincare product data, including product names, brands, and
   },
   ...
 ]
-'''
+```
 ## Motivation & Use Case
 While working on a personal project to detect harmful or incompatible ingredient combinations in skincare routines, I hit a major **roadblock**:
   The ack of accessible, up-to-date skincare product APIs or databases. Many were outdated, shut down, or undocumented.
